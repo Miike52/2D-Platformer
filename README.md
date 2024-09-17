@@ -8,6 +8,6 @@ Scripts folder located in the: 2D-Platformer/Assets/Scripts
 - Ending after collecting 2 Trophies
 
 ## Controls
-A - move left
-D - move right
-Space - jump
+- A - move left
+- D - move right
+- Space - jump
